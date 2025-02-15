@@ -1,5 +1,5 @@
 --[[
---
+-- I made some vim dotfiles!
 -- This dotfile wias build off of kickstart.
 -- Useful links
 ---- LUA
